@@ -1,0 +1,10 @@
+Child-node/.pio
+Child-node/.vscode/.browse.c_cpp.db*
+Child-node/.vscode/c_cpp_properties.json
+Child-node/.vscode/launch.json
+Child-node/.vscode/ipch
+Root-node/.pio
+Root-node/.vscode/.browse.c_cpp.db*
+Root-node/.vscode/c_cpp_properties.json
+Root-node/.vscode/launch.json
+Root-node/.vscode/ipch
