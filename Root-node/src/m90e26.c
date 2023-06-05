@@ -190,9 +190,9 @@ uint16_t checksumCalc(uint8_t id){
   return 0;
 }
 
-double getEnergy(){
+uint16_t getEnergy(){
   uint16_t energy =  m90e26ReadU16(E_ACT_FWD); // register is cleared after reading
-  return (double)energy;
+  return energy;
 }
 
 double getEnergyRev(){

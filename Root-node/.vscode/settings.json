@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "m90e26.h": "c",
+    "mqtt.h": "c",
+    "main.h": "c",
+    "wifi.h": "c",
+    "realtime.h": "c",
+    "event_groups.h": "c"
+  }
+}
